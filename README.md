@@ -1,9 +1,10 @@
 # Optimization-with-Python
 This Repository contains my learning activities for the Udemy course " Optimization with Python, Solving Operations Research Problems"
-# Description
+
 Operational planning and long term planning for companies are more complex in recent years. Information changes fast, and the decision making is a hard task. Therefore, optimization algorithms (operations research) are used to find optimal solutions for these problems. Professionals in this field are one of the most valued in the market.
+
  Mathematical Optimization and Metaheuristics:
- ============================================
+ =============================================
 
 Linear Programming (LP)
 
