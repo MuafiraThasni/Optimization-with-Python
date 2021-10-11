@@ -26,7 +26,7 @@ NonConvex Quadratic Programmin (QP)
 
 
 
-solvers and frameworks explored:
+Solvers and frameworks explored:
 ================================
 
 Solvers: CPLEX – Gurobi – GLPK – CBC – IPOPT – Couenne – SCIP
@@ -38,7 +38,7 @@ Same Packages and tools: Geneticalgorithm – Pyswarm – Numpy – Pandas – M
 
 
 
-problems  solved :
+Problems  solved :
 ==================
 
 Optimization on how to install a fence in a garden
