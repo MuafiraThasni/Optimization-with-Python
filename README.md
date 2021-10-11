@@ -40,8 +40,9 @@ Same Packages and tools: Geneticalgorithm – Pyswarm – Numpy – Pandas – M
 
 Problems  solved :
 ==================
+( I have changed the problems from the course a little bit, inorder to improve my learning skills and also to avoid the copyright issues )
 
-Optimization on how to install a fence in a garden
+1. Optimization on how to install a fence in a garden: A rectangular shaped garden has to be fenced. Find the maximum area that can be fenced by using a 150 m fence. The garden is already fenced at one side by using a rock wall.
 
 Route optimization problem
 
