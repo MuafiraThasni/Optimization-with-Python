@@ -44,11 +44,16 @@ Problems  solved :
 
 1. Optimization on how to install a fence in a garden: A rectangular shaped garden has to be fenced. Find the maximum area that can be fenced by using a 150 m fence. The garden is already fenced at one side by using a rock wall.
 
-Route optimization problem
+2. Route optimization problem
 
-Maximize the revenue in a rental car store
+3. Maximize the revenue in a rental car store
 
-Optimal Power Flow: Electrical Systems
+4. Optimal Power Flow: Electrical Systems: Power flow optimization problem. 
+    Solving Process: First convert the given one line diagram in to mathematical model. Then reqired data are stored using Excel sheets. Pandas can be used to fetch data from    these sheets. 
+    i) Read data from Excel sheets
+    ii) Define Variables
+    iii) Defeine Objective function
+    iv) Solve problem using Gurobi
 
-Many other examples, some simple, some complexes, including summations and many constraints.
+
 
